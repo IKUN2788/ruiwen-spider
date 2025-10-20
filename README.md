@@ -1,8 +1,9 @@
 # Python tkinter实战：美文网爬虫GUI工具开发详解
 
 ## 前言
-![img.png](img.png)
-![img_1.png](img_1.png)
+<img width="1127" height="915" alt="image" src="https://github.com/user-attachments/assets/916a468a-cae5-4c61-a8c1-bbdccdb0b8c2" />
+
+<img width="1164" height="888" alt="image" src="https://github.com/user-attachments/assets/36fec315-ffac-4491-b194-ff04c1fcb94d" />
 
 在日常的数据采集工作中，我们经常需要从各种网站获取内容。虽然命令行工具功能强大，但对于非技术用户来说，图形界面更加友好和直观。本文将详细介绍如何使用Python的tkinter库开发一个美文网爬虫GUI工具，实现文章内容的获取、预览、复制和导出功能。
 
